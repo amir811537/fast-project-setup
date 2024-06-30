@@ -2,7 +2,7 @@ const Footer = () => {
 
   return (
 <footer>
-  this is footer2
+  this is new from new pc
 </footer>
   );
 };
